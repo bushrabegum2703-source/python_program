@@ -14,5 +14,5 @@ for item in num
 
 else:
 
-  print ("number is not founa")
+  print ("number is not found")
 
